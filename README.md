@@ -36,3 +36,9 @@
 🌱 Atualmente estudando React e TypeScript. <br>
 
 ##
+
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-da-silva-flores-617429252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
