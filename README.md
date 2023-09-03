@@ -31,8 +31,4 @@
 
 ### Skills
 
-<div style="display: inline_block"><br>
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
-  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql)](https://skillicons.dev)
