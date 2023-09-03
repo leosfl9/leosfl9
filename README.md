@@ -14,6 +14,15 @@
   />
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true" />
 </picture>
-<a href="https://github.com/leosfl9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320" />
+</picture>
