@@ -32,3 +32,5 @@
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql)](https://skillicons.dev)
+
+🌱 Atualmente estudando React e TypeScript.
