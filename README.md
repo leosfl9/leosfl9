@@ -12,7 +12,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
 
 <picture>
