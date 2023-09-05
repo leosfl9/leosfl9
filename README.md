@@ -5,14 +5,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
 
 <picture>
