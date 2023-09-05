@@ -17,14 +17,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=leosfl9&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact" />
 </picture>
 
 ##
