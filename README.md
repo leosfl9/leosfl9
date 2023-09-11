@@ -15,7 +15,7 @@
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
 
-<picture>
+[//]: # (<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -25,7 +25,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact" />
-</picture>
+</picture>)
 
 ##
 
