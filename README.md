@@ -2,6 +2,7 @@
 
 🌎 Nascido no Brasil, sou um estudante de Desenvolvimento de Sistemas na Escola Senai Suíço-Brasileira Paulo Ernesto Tolle.<br><br>
 👨‍💻 Meu foco principal é o Front-end, mas também possuo conhecimentos em desenvolvimento Back-end, Mobile e Banco de Dados.<br><br>
+
 <!--- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leosfl9&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
@@ -25,7 +26,6 @@
   />
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosfl9&layout=compact" />
 </picture> -->
-##
 
 ### Skills
 
