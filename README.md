@@ -1,4 +1,4 @@
-# Bem-vindo! Meu nome é Leonardo da Silva Flores 👋
+# Olá! Meu nome é Leonardo da Silva Flores 👋
 
 🌎 Nascido no Brasil, sou um estudante de Desenvolvimento de Sistemas na Escola Senai Suíço-Brasileira Paulo Ernesto Tolle.<br><br>
 👨‍💻 Meu foco principal é o Front-end, mas também possuo conhecimentos em desenvolvimento Back-end, Mobile e Banco de Dados.<br><br>
