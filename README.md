@@ -33,7 +33,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,tailwind,bootstrap,php,mysql,git,github)](https://skillicons.dev)
 
-🌱 Atualmente estudando Node. <br>
+🌱 Atualmente estudando NodeJS. <br>
 
 ##
 
