@@ -1,7 +1,7 @@
 # Olá! Meu nome é Leonardo da Silva Flores 👋
 
-🌎 Nascido no Brasil, sou um estudante de Desenvolvimento de Sistemas na Escola Senai Suíço-Brasileira Paulo Ernesto Tolle.<br><br>
-👨‍💻 Meu foco principal é o Front-end, mas também possuo conhecimentos em desenvolvimento Back-end, Mobile e Banco de Dados.<br><br>
+🌎 Nascido no Brasil, sou um estudante de Desenvolvimento de Sistemas na FATEC São Paulo.<br><br>
+👨‍💻 Focado atualmente em desenvolvimento Mobile, mas também possuo conhecimentos em desenvolvimento Front-end, Back-end e Banco de Dados.<br><br>
 
 <!--- <picture>
   <source
@@ -33,7 +33,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,tailwind,bootstrap,php,mysql,git,github)](https://skillicons.dev)
 
-🌱 Atualmente estudando NodeJS. <br>
+🌱 Atualmente estudando React Native. <br>
 
 ##
 
